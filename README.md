@@ -317,5 +317,5 @@ Maka dari keseluruhan syntax tersebut bila digabung menjadi seperti berikut :<br
 </html>
 ```
 
-Sekian untuk tugas kali ini
+Sekian untuk tugas kali ini<br>
 Terima kasih
